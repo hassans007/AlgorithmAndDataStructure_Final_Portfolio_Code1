@@ -1,4 +1,4 @@
-# README for Practical_11 Java Project
+Algorithm and Data Structure Practical_11 Java Project
 
 ## Project Overview
 This project simulates the scheduling and cancellation of talks within a conference. The conference consists of multiple sessions, each taking place in a designated room. Each session can host multiple talks, which are scheduled based on their start time. Talks can be scheduled, and if necessary, canceled. The project includes three primary classes: `Conference`, `Session`, and `Talk`.
